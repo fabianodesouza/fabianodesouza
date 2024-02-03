@@ -16,7 +16,7 @@
 </div>
 
 ##
-<div align="center" style="margin-bottom:100px">
+<div align="left" style="margin-bottom:100px">
   <img widt="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=fabianodesouza&show_icons=true&theme=highcontrast">
 </div>
 
@@ -28,10 +28,12 @@
 <img align="center" alt="Fabiano-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Fabiano-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="center" alt="Fabiano-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />                  
-</div>
+</div><br>
+<p align="center">
+  <img align="center" src="https://github.com/fabianodesouza/fabianodesouza/assets/112220607/7cc59f94-d64e-469e-9807-53c72fc60f81" alt="Imagem">
+</p>
 
-
-
+      
 
 
 
