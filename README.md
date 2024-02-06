@@ -43,7 +43,7 @@
 
   ## Estudando nesse momento:
   <img alt="Fabiano-Laravel" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />&emsp;
-  <img alt="Fabiano-Vue.js" height="80" width="50" color="green" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />;
+  <img alt="Fabiano-Vue.js" height="80" width="50" color="green" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
           
   <br>
   <p align="center">
