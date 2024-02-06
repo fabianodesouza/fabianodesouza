@@ -33,8 +33,8 @@
   
   #### Back-End
    <img  alt="Fabiano-PHP" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&emsp;
-   <img  alt="Fabiano-APACHE" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-plain-wordmark.svg" />&emsp;
-   <img alt="Fabiano-Laravel" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+   <img  alt="Fabiano-APACHE" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" />&emsp;
+   <img alt="Fabiano-Laravel" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
    
   <hr>
   
@@ -42,7 +42,7 @@
   <img alt="Fabiano-Mysql" height="120" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
   ## Estudando nesse momento:
-  <img alt="Fabiano-Laravel" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />&emsp;
+  <img alt="Fabiano-Laravel" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />&emsp;
   <img alt="Fabiano-Vue.js" height="80" width="50" color="green" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
           
   <br>
