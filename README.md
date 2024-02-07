@@ -5,7 +5,7 @@
       <summary><h1 style="display: inline-block">Hello World</h1></summary>
   </div>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Eu+sou+o+Fabiano+Souza;Desenvolvedor+Full+Stack;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Eu+sou+o+Fabiano+Souza;Desenvolvedor+Full+Stack+PHP;Bem+Vindo!+:%29)](https://git.io/typing-svg)
   
   🌱 Cursando Análise e Desenvolvimento de Sistemas<br>
   💼 Em busca da minha primeira oportunidade de emprego como desenvolvedor<br>
