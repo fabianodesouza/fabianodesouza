@@ -11,8 +11,10 @@
   💼 Em busca da minha primeira oportunidade de emprego como desenvolvedor<br>
   
   <div>
-    <a href="https://portfolio.com" target="_blank"><img  src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=portfolio&style=for-the-badge" target="_blank"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://fabianodesouza.github.io/" target="_blank"><img  src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg?label=portfolio&style=for-the-badge"     
+      target="_blank"></a>
+    <a href="https://www.linkedin.com/in/fabianofdesouza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      target="_blank"></a>
     <a href="mailto:fr.desouza2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
